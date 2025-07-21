@@ -1,0 +1,24 @@
+:root {
+    --colorFont: #093FB4;
+    --colorFont2: #393E46;  
+    --colorNavbar: #222831;
+    --colorFooter: #948979;
+}
+.container-fluid {
+    background-color: var(--colorFont);
+}
+body {
+    background-color: var(--colorFont2);
+}
+.bg-size {
+    zoom: 75%;
+}
+.navbar-primary {
+    background-color: var(--colorNavbar);
+}
+header {
+    background-color: var(--colorNavbar);
+}
+footer {
+    background-color: var(--colorFooter);
+}
